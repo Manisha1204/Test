@@ -15,3 +15,5 @@ ublic class CallingMethodsInSameClass
 		printOne();
 	}
 }
+
+Hello All
